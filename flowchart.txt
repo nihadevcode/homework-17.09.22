@@ -1,0 +1,11 @@
+input m
+
+	if m % 2 = 0
+		
+		print "Cüt ədəddir"
+
+	else
+	
+		print "Tək ədəddir"
+
+end
